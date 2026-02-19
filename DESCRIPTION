@@ -1,0 +1,22 @@
+Package: rtool
+Type: Package
+Title: R Tool - Project Helpers for Navigation and File Ops
+Version: 0.0.1
+Authors@R:
+    person("Do", "Thanh Liem",
+           email = "liem20k@gmail.com",
+           role = c("aut", "cre"))
+Description: Helper functions for project navigation, listing,
+    searching, opening, creating, and renaming files.
+    Provides here::here() project root support and an
+    HTML help viewer inside RStudio.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Depends: R (>= 4.1)
+Imports:
+    here
+Suggests:
+    rstudioapi
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+LazyData: true
