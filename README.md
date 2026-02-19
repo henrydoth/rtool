@@ -1,4 +1,10 @@
-README **đã chỉnh đúng theo package** (anh chỉ việc paste vào: `D:/GitHub/p_ackage/rtool/README.md`)
+# 📦 rtool
+
+[![GitHub release](https://img.shields.io/github/v/release/henrydoth/rtool)](https://github.com/henrydoth/rtool/releases)
+
+[![R](https://img.shields.io/badge/R-4.0%2B-blue)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
 
 ------
 
